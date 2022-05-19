@@ -12,3 +12,6 @@ The first versions were printed in PLA and were heavy, and inefficient. The late
 
 ### V0:
 First assembled version, could not get get electronics to work and they blew up after only working for seconds. 
+
+
+Manija
