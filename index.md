@@ -17,8 +17,24 @@ The first versions were printed in PLA and were heavy, and inefficient. The late
 First assembled version, could not get get electronics to work and they blew up after only working for seconds. 
 
 ### V1:
+Same Plastic components, completely redesigned electronic design with a higher-power buck converter. 
 
+### V2:
+Added T-Display ESP-32 Coprocessor and rear camera.
 
+### V3:
+Removed rear electronics assembly to save weight and moved Raspberry Pi to the back. Added RPI LiDAR as counterweight. 
 
+### V4 (AKA Blaze):
+Redesigned Wire harness. Able to walk in flat surfaces and output data from RPI LiDAR
+
+### V5:
+Replaced PLA Leg Parts with Flexible legs and Carbon Fiber Rods Legs
+
+### V6:
+Replaced PLA Core with PETG Carbon Fiber Core. 
+
+### V7(AKA GoldyDog):
+Replaced Flexible legs with Carbon Fiber Plate legs. 
 
 [https://umn-vr.github.io](https://umn-vr.github.io)
