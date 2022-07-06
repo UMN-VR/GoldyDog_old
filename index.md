@@ -1,9 +1,9 @@
-[https://umn-vr.github.io](https://umn-vr.github.io)
+[umn-vr.github.io](https://umn-vr.github.io)
 
 # GoldyDog 
 
 ## Docs
-[goldydog-docs.rtfd.io](goldydog-docs.rtfd.io)
+[goldydog-docs.rtfd.io](https://goldydog-docs.rtfd.io)
 
 ## GoldyDogV4 3D Model
 <iframe src="https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A" title="polycam capture viewer" style="height:60vmin;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px" frameborder="0"></iframe>
@@ -41,4 +41,4 @@ Replaced PLA Core with PETG Carbon Fiber Core.
 ### V7(AKA GoldyDog):
 Replaced Flexible legs with Carbon Fiber Plate legs. 
 
-[https://umn-vr.github.io](https://umn-vr.github.io)
+[umn-vr.github.io](https://umn-vr.github.io)
